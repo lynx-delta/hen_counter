@@ -1,0 +1,8 @@
+# Path to data files
+train: /home/ubuntu/Data/Train
+val:   /home/ubuntu/Data/Valid
+test:  /home/ubuntu/Data/Test
+
+# Total number of classes
+nc: 2
+names: ['brown','white']
